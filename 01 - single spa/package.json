@@ -1,5 +1,5 @@
 {
-  "name": "single-spa-workshop-00",
+  "name": "single-spa-workshop-01",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "single-spa": "^5.9.5"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",

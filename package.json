@@ -1,6 +1,8 @@
 {
   "name": "single-spa-workshop",
   "workspaces": [
-    "00 - start"
+    "00 - start",
+    "01 - single spa",
+    "02 - the application"
   ]
 }
